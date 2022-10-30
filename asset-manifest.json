@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://omonayeg.github.io/csb-54x2xy/static/css/main.65390040.chunk.css",
+    "main.js": "https://omonayeg.github.io/csb-54x2xy/static/js/main.e1f5920f.chunk.js",
+    "main.js.map": "https://omonayeg.github.io/csb-54x2xy/static/js/main.e1f5920f.chunk.js.map",
+    "runtime-main.js": "https://omonayeg.github.io/csb-54x2xy/static/js/runtime-main.728f8d6d.js",
+    "runtime-main.js.map": "https://omonayeg.github.io/csb-54x2xy/static/js/runtime-main.728f8d6d.js.map",
+    "static/js/2.75a2e7b8.chunk.js": "https://omonayeg.github.io/csb-54x2xy/static/js/2.75a2e7b8.chunk.js",
+    "static/js/2.75a2e7b8.chunk.js.map": "https://omonayeg.github.io/csb-54x2xy/static/js/2.75a2e7b8.chunk.js.map",
+    "index.html": "https://omonayeg.github.io/csb-54x2xy/index.html",
+    "static/css/main.65390040.chunk.css.map": "https://omonayeg.github.io/csb-54x2xy/static/css/main.65390040.chunk.css.map",
+    "static/js/2.75a2e7b8.chunk.js.LICENSE.txt": "https://omonayeg.github.io/csb-54x2xy/static/js/2.75a2e7b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.728f8d6d.js",
+    "static/js/2.75a2e7b8.chunk.js",
+    "static/css/main.65390040.chunk.css",
+    "static/js/main.e1f5920f.chunk.js"
+  ]
+}
